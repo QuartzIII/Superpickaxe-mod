@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone"
+    },
+    "1": {
+      "item": "minecraft:redstone"
+    },
+    "2": {
+      "item": "minecraft:redstone"
+    },
+    "3": {
+      "item": "minecraft:sugar"
+    },
+    "4": {
+      "item": "mod:superdiamant"
+    },
+    "5": {
+      "item": "minecraft:redstone"
+    },
+    "6": {
+      "item": "minecraft:sugar"
+    },
+    "7": {
+      "item": "minecraft:sugar"
+    },
+    "8": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "mod:upgradespeed_1",
+    "count": 1
+  }
+}

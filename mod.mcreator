@@ -1,0 +1,1069 @@
+{
+  "mod_elements": [
+    {
+      "name": "Compresseur",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compresseur",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "Recettecmpresseur",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recettecmpresseur",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "Diamantcompresse",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamantcompresse",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "Recdiamantcompresse",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recdiamantcompresse",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "TestQuandLeBlocEstDetruitAvecLoutil",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_quand_le_bloc_est_detruit_avec_loutil",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe1",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_1",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe2",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_2",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superdiamant",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superdiamant",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "Recsuperdiamant",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recsuperdiamant",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "Recsuperpickaxe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recsuperpickaxe",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "Superpickaxemod",
+      "type": "tab",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxemod",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe3",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_3",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe2to3",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_2to_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe3to4",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_3to_4",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe4",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_4",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "SuperpickaxeQuandUneCommandeEstExecutee",
+      "type": "procedure",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_quand_une_commande_est_executee",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Commsuperpickaxe2QuandUneCommandeEstExecutee",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "commsuperpickaxe_2_quand_une_commande_est_executee",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Commsuperpickaxe3QuandUneCommandeEstExecutee",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "commsuperpickaxe_3_quand_une_commande_est_executee",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe",
+      "type": "command",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "GiveSuperpickaxeToPlayer",
+      "type": "procedure",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_superpickaxe_to_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "arguments",
+            "type": "cmdcontext"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "GiveSuperpickaxe",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_superpickaxe",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "arguments",
+            "type": "cmdcontext"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "GiveSuperpickaxeNoLvl",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_superpickaxe_no_lvl",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe5",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_5",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe4to5",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_4to_5",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe6",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_6",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe5to6",
+      "type": "procedure",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_5to_6",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe7",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_7",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe8",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_8",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe6to7",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_6to_7",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe7to8",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_7to_8",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe8toUltimate",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_8to_ultimate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Superpickaxe9",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_9",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "SuperpickaxeUltime",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_ultime",
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "SuperpickaxeNoUltimateToUltimate",
+      "type": "procedure",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_no_ultimate_to_ultimate",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Superpickaxe"
+    },
+    {
+      "name": "Upgradespeed1",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "upgradespeed_1",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Upgradespeed2",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "upgradespeed_2",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Upgradespeed3",
+      "type": "item",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "upgradespeed_3",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Upgradespeed4",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "upgradespeed_4",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "SuperpickaxeUltimeEvenementAuClicDroitDansLair",
+      "type": "procedure",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superpickaxe_ultime_evenement_au_clic_droit_dans_lair",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      },
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Craftupgradespeed1",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftupgradespeed_1",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Guiupgradescraftingtable",
+      "type": "gui",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guiupgradescraftingtable",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Upgradescraftingtable",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "upgradescraftingtable",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Craftingupgrades",
+      "type": "procedure",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftingupgrades",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Craftupgradescraftingtable",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftupgradescraftingtable",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Netheritecompressee",
+      "type": "item",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritecompressee",
+      "path": "~/Upgrades Superpickaxe"
+    },
+    {
+      "name": "Craftcompressednetherite",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftcompressednetherite",
+      "path": "~/Craft Superpickaxe"
+    },
+    {
+      "name": "Livredeconnaisances",
+      "type": "item",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livredeconnaisances",
+      "path": "~/Livre"
+    },
+    {
+      "name": "Guilivredesconnaissances",
+      "type": "gui",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "guilivredesconnaissances",
+      "path": "~/Livre"
+    },
+    {
+      "name": "Livrepage2",
+      "type": "gui",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livrepage_2",
+      "path": "~/Livre"
+    },
+    {
+      "name": "LivredeconnaisancesEvenementAuClicDroitDansLair",
+      "type": "procedure",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livredeconnaisances_evenement_au_clic_droit_dans_lair",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Livre"
+    },
+    {
+      "name": "QuandLeMondeEstCree",
+      "type": "procedure",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "quand_le_monde_est_cree",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Livre"
+    },
+    {
+      "name": "Livrepage2to3",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livrepage_2to_3",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Livre"
+    },
+    {
+      "name": "Livrepage4",
+      "type": "gui",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livrepage_4",
+      "path": "~/Livre"
+    },
+    {
+      "name": "Livrepage3",
+      "type": "gui",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livrepage_3",
+      "path": "~/Livre"
+    },
+    {
+      "name": "Livrepage3to4",
+      "type": "procedure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livrepage_3to_4",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Livre"
+    },
+    {
+      "name": "Livrepage5",
+      "type": "gui",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livrepage_5",
+      "path": "~/Livre"
+    },
+    {
+      "name": "RLivrepage3to4",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "r_livrepage_3to_4",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Livre"
+    },
+    {
+      "name": "Livrepage6",
+      "type": "gui",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livrepage_6",
+      "path": "~/Livre"
+    },
+    {
+      "name": "Livrepage4to5",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "livrepage_4to_5",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Livre"
+    },
+    {
+      "name": "Craftlivredeconnaissances",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craftlivredeconnaissances",
+      "path": "~/Livre"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "superPickaxeNBTtag",
+      "type": "itemstack",
+      "scope": "map",
+      "value": "ItemStack.EMPTY"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mod.compresseur": "Compresseur",
+      "item.mod.upgradespeed_1": "Amélioration de vitesse 1",
+      "item.mod.upgradespeed_2": "Amélioration de vitesse 2",
+      "item.mod.upgradespeed_3": "Amélioration de vitesse 3",
+      "item.mod.superpickaxe_1": "Superpickaxe lvl1",
+      "item.mod.upgradespeed_4": "Amélioration de vitesse 3",
+      "item.mod.superpickaxe_2": "Superpickaxe lvl2",
+      "item.mod.superpickaxe_3": "Superpickaxe lvl3",
+      "item.mod.superpickaxe_4": "Superpickaxe lvl4",
+      "item.mod.superpickaxe_5": "Superpickaxe lvl5",
+      "item.mod.superpickaxe_6": "Superpickaxe lvl6",
+      "item.mod.superpickaxe_7": "Superpickaxe lvl7",
+      "item.mod.superpickaxe_8": "Superpickaxe lvl8",
+      "item.mod.superpickaxe_9": "Superpickaxe 9",
+      "itemGroup.tabsuperpickaxemod": "Superpickaxe mod",
+      "item.mod.superdiamant": "Superdiamant",
+      "item.mod.superpickaxe_ultime": "Superpickaxe Ultime",
+      "item.mod.netheritecompressee": "Netherite compressée",
+      "item.mod.diamantcompresse": "Diamant compressé",
+      "block.mod.upgradescraftingtable": "Établi d\u0027upgrades",
+      "item.mod.livredeconnaisances": "Livre de connaissances"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Superpickaxe",
+        "children": []
+      },
+      {
+        "name": "Craft Superpickaxe",
+        "children": []
+      },
+      {
+        "name": "Upgrades Superpickaxe",
+        "children": []
+      },
+      {
+        "name": "Livre",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "mod",
+    "modName": "Mod",
+    "version": "1.0.0",
+    "author": "clement, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.mod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200233511
+}

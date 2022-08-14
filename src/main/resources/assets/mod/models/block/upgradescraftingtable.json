@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mod:blocks/text_down_upgrades_crafting_table",
+    "up": "mod:blocks/text_top_upgrades_crafting_table",
+    "north": "mod:blocks/text_side_upgrades_crafting_table",
+    "east": "mod:blocks/text_side_upgrades_crafting_table",
+    "south": "mod:blocks/text_side_upgrades_crafting_table",
+    "west": "mod:blocks/text_side_upgrades_crafting_table",
+    "particle": "mod:blocks/text_down_upgrades_crafting_table"
+  }
+}

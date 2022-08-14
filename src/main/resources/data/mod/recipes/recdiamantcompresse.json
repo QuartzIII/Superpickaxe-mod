@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "mod:compresseur"
+    },
+    "3": {
+      "item": "mod:compresseur"
+    },
+    "4": {
+      "item": "minecraft:diamond_block"
+    },
+    "5": {
+      "item": "mod:compresseur"
+    },
+    "7": {
+      "item": "mod:compresseur"
+    }
+  },
+  "result": {
+    "item": "mod:diamantcompresse",
+    "count": 1
+  }
+}

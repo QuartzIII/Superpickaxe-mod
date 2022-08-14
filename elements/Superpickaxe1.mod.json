@@ -1,0 +1,30 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pioche_de_bois",
+    "customModelName": "Normal",
+    "name": "Superpickaxe lvl1",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Superpickaxemod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 1.5,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "TestQuandLeBlocEstDetruitAvecLoutil"
+    }
+  }
+}

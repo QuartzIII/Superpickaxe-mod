@@ -1,0 +1,828 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 223,
+    "height": 166,
+    "inventoryOffsetX": -256,
+    "inventoryOffsetY": 256,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_jaune.png",
+          "use1Xscale": false,
+          "name": "pixel_jaune.png",
+          "x": 102,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_jaune.png",
+          "use1Xscale": false,
+          "name": "pixel_jaune.png",
+          "x": 118,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 102,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 134,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 150,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 166,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 182,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 198,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 214,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 230,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 246,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 262,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 278,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_jaune.png",
+          "use1Xscale": false,
+          "name": "pixel_jaune.png",
+          "x": 294,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_jaune.png",
+          "use1Xscale": false,
+          "name": "pixel_jaune.png",
+          "x": 310,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 310,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 310,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 310,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 310,
+          "y": 105
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 310,
+          "y": 121
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 310,
+          "y": 137
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 310,
+          "y": 153
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 310,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_jaune.png",
+          "use1Xscale": false,
+          "name": "pixel_jaune.png",
+          "x": 310,
+          "y": 169
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_jaune.png",
+          "use1Xscale": false,
+          "name": "pixel_jaune.png",
+          "x": 294,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 294,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 294,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 294,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 294,
+          "y": 105
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 294,
+          "y": 121
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 294,
+          "y": 153
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 294,
+          "y": 137
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 294,
+          "y": 169
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 278,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 262,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 246,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_jaune.png",
+          "use1Xscale": false,
+          "name": "pixel_jaune.png",
+          "x": 118,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 102,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_jaune.png",
+          "use1Xscale": false,
+          "name": "pixel_jaune.png",
+          "x": 102,
+          "y": 169
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 134,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 150,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 166,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 182,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 198,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 214,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 230,
+          "y": 185
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 102,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 102,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 102,
+          "y": 105
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 102,
+          "y": 121
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 102,
+          "y": 137
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_gris.png",
+          "use1Xscale": false,
+          "name": "pixel_gris.png",
+          "x": 102,
+          "y": 153
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 118,
+          "y": 57
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 118,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 118,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 118,
+          "y": 105
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 118,
+          "y": 121
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 118,
+          "y": 153
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore.png",
+          "use1Xscale": false,
+          "name": "pixel_dore.png",
+          "x": 118,
+          "y": 169
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pixel_dore_fonce.png",
+          "use1Xscale": false,
+          "name": "pixel_dore_fonce.png",
+          "x": 118,
+          "y": 137
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Pour faire un super diamant",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Pour faire un super diamant",
+          "x": 138,
+          "y": 59
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Suivez les crafts ci-dessous",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Suivez les crafts ci-dessous",
+          "x": 137,
+          "y": 70
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 142,
+          "y": 95
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #3",
+          "x": 142,
+          "y": 115
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 6,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #6",
+          "x": 142,
+          "y": 135
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #1",
+          "x": 162,
+          "y": 95
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 4,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #4",
+          "x": 162,
+          "y": 115
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 7,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #7",
+          "x": 162,
+          "y": 135
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #2",
+          "x": 182,
+          "y": 95
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 5,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #5",
+          "x": 182,
+          "y": 115
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 8,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #8",
+          "x": 182,
+          "y": 135
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 9,
+          "disableStackInteraction": true,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #9",
+          "x": 212,
+          "y": 115
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "->",
+          "onClick": {
+            "name": "RLivrepage3to4"
+          },
+          "width": 15,
+          "height": 20,
+          "name": "->",
+          "x": 294,
+          "y": 165
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "(Attention il y a des vitres",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "(Attention il y a des vitres",
+          "x": 138,
+          "y": 156
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "pas très visibles)",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "pas très visibles)",
+          "x": 139,
+          "y": 167
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 42,
+      "oy": 48,
+      "snapOnGrid": false
+    }
+  }
+}

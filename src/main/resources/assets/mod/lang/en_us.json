@@ -1,0 +1,23 @@
+{
+  "item.mod.compresseur": "Compresseur",
+  "item.mod.upgradespeed_1": "Amélioration de vitesse 1",
+  "item.mod.upgradespeed_2": "Amélioration de vitesse 2",
+  "item.mod.upgradespeed_3": "Amélioration de vitesse 3",
+  "item.mod.superpickaxe_1": "Superpickaxe lvl1",
+  "item.mod.upgradespeed_4": "Amélioration de vitesse 3",
+  "item.mod.superpickaxe_2": "Superpickaxe lvl2",
+  "item.mod.superpickaxe_3": "Superpickaxe lvl3",
+  "item.mod.superpickaxe_4": "Superpickaxe lvl4",
+  "item.mod.superpickaxe_5": "Superpickaxe lvl5",
+  "item.mod.superpickaxe_6": "Superpickaxe lvl6",
+  "item.mod.superpickaxe_7": "Superpickaxe lvl7",
+  "item.mod.superpickaxe_8": "Superpickaxe lvl8",
+  "item.mod.superpickaxe_9": "Superpickaxe 9",
+  "itemGroup.tabsuperpickaxemod": "Superpickaxe mod",
+  "item.mod.superdiamant": "Superdiamant",
+  "item.mod.superpickaxe_ultime": "Superpickaxe Ultime",
+  "item.mod.netheritecompressee": "Netherite compressée",
+  "item.mod.diamantcompresse": "Diamant compressé",
+  "block.mod.upgradescraftingtable": "Établi d\u0027upgrades",
+  "item.mod.livredeconnaisances": "Livre de connaissances"
+}
